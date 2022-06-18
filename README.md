@@ -7,7 +7,7 @@ I plan to open a surf supply and ice cream shop on Oachu. After putting together
 
 ---
 ## Results
-June is a warmer month than December in O’ahu; however, the temperate difference between the months is inconsequential.  By and large June is approximately 2-4 degrees warmer across statistical comparisons. 
+June is a warmer month than December in O’ahu; however, the temperate difference between the months is inconsequential.  **By and large June is approximately 2-4 degrees warmer across statistical comparisons.** 
 * June’s average temperate is 4 degrees warmer than December. June has an average temperature of 75 degrees while December averages 71 degrees. 
 * Temperatures below 64 degrees and above 81 degrees in either month are rare. 95% of the temperatures in June fall between 68 degree and 81 and 95% of the temperatures in December fall between 64 degree and 79 degrees. 
 * Although December has a low of 56 degrees in December compared to a low of 64 degrees in June, 56 degrees is so unusual (falls outside of 99.7% of the temperatures recorded in December) that it should not be a factor.  
