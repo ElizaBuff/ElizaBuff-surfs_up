@@ -1,9 +1,9 @@
 # Surfs Up Analysis
 ## Overview of Project
 ### Purpose of Project
-In this project, I demonstrated my proficiency with various features in SQL including: entity relationship diagrams (ERDs), creating new tables with into statements, exporting a CSV file, filtering queries, using join, on(), order by, and using aliases. To accomplish these goals, I was given a fictional situation and data set of six CSV files. 
+In this project, I demonstrated my proficiency with various using Python, Pandas functions and methods, and SQLAlchemy to filter the date column of the measurements table in the database to retrieve all the temperatures for the month of June and December. Then I converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics. 
 ### Background of Project
-Pewlett Hackard, a large company with thousands of employees, is looking toward the future in two ways: (1) offering a retirement package for those who meet certain criteria and (2) identifying which positions will need to be filled in the near future. The objective of this project is to determine the number of retiring employees per title, identify employees who are eligible to participate in a mentorship program, and a written a summary analysis report to prepare Pewlett Hackard for the “silver tsunami” as many current employees reach retirement age.
+I plan to open a surf supply and ice cream shop on Oachu. After putting together a business plan, I reached out to W. Avy, an investor, and he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ---
 ## Results
