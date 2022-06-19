@@ -18,7 +18,7 @@ The tables below compare the recorded temperatures in June and December respecti
 
 ---
 ## Summary 
-June is a warmer month than December in O’ahu; however, the temperate difference between the months is inconsequential.  **By and large June is approximately 2-4 degrees warmer across statistical comparisons.** Therefore, the temperatures in June and December are so similar that temperature while not be a hindrance in opening the Surf and Shake shop. 
+June is a warmer month than December in O’ahu; however, the temperate difference between the months is inconsequential.  **By and large June is approximately 2-4 degrees warmer across statistical comparisons.** Therefore, the temperatures in June and December are so similar that temperature will not be a hindrance in opening the Surf and Shake shop. 
 
 Two additional weather factors to consider are wind speed and amount of sunlight for June and December. 
 * Since wind speed is an important element to surfing vis-à-vi waves, wind speed data may indicate if either month is more, less, or equally lucrative.  Do wind speeds vary from June to December in O’ahu?
