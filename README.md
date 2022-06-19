@@ -1,7 +1,7 @@
 # Surfs Up Analysis
 ## Overview of Project
 ### Background of Project
-I plan to open a surf supply and ice cream shop on Oachu. After putting together a business plan, I reached out to W. Avy, an investor, and he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+I plan to open a surf supply and ice cream shop on O'ahu, Hawaii. After putting together a business plan, I reached out to W. Avy, an investor, and he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 ### Purpose of Project
 In this project, I demonstrated my proficiency with Python, Pandas functions and methods, and SQLAlchemy to filter the date column of the measurements table in the database to retrieve all the temperatures for the month of June and December. Then I converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics. 
 
