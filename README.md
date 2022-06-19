@@ -7,10 +7,10 @@ I plan to open a surf supply and ice cream shop on Oachu. After putting together
 
 ---
 ## Results
-June is a warmer month than December in O’ahu; however, the temperate difference between the months is inconsequential.  **By and large June is approximately 2-4 degrees warmer across statistical comparisons.** 
-* June’s average temperate is 4 degrees warmer than December. June has an average temperature of 75 degrees while December averages 71 degrees. 
+* June’s average temperature is 4 degrees warmer than December. June has an average temperature of 75 degrees while December averages 71 degrees. 
 * Temperatures below 64 degrees and above 81 degrees in either month are rare. 95% of the temperatures in June fall between 68 degree and 81 and 95% of the temperatures in December fall between 64 degree and 79 degrees. 
 * Although December has a low of 56 degrees in December compared to a low of 64 degrees in June, 56 degrees is so unusual (falls outside of 99.7% of the temperatures recorded in December) that it should not be a factor.  
+ 
 The tables below compare the recorded temperatures in June and December respectively. 
 
 
@@ -18,13 +18,12 @@ The tables below compare the recorded temperatures in June and December respecti
 
 ---
 ## Summary 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+June is a warmer month than December in O’ahu; however, the temperate difference between the months is inconsequential.  **By and large June is approximately 2-4 degrees warmer across statistical comparisons.** Therefore, the temperatures in June and December are so similar that temperature while not be a hindrance in opening the Surf and Shake shop. 
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. 
+Two additional weather factors to consider are wind speed and amount of sunlight for June and December. 
+* Since wind speed is an important element to surfing vis-à-vi waves, wind speed data may indicate if either month is more, less, or equally lucrative.  Do wind speeds vary from June to December in O’ahu?
+* Sunlight is likely to bring in more customers for both surfing and ice cream. How do the number of sunny days, partly sunny days, and total days with sun vary from June to December in O’ahu?
 
-In order to mentor the next generation, Pewlett-Hackard should consider expanding mentor requirements. Additional queries to consider:
-* Would expanding the mentor requirements from 1 year to 3 years or 5 years be able to match at least 10% of retiring employees? 
-* Rather than age or in addition to age, should Pewlett Hackard consider years of experience in the given job title as requirement for mentorship? 
 
 
 
